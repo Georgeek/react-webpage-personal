@@ -3,6 +3,12 @@ body {
     background-color: #fafafa;
 }
 
+/* Header navigation */
+.mdl-layout__header, 
+.mdl-navigation .mdl-navigation__link {
+    color: #000;
+}
+
 /* Book */
 .book-cover {
     width: 100%;
