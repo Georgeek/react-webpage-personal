@@ -8,6 +8,8 @@ import Portfolio from './components/Portfolio';
 import About from './components/About';
 import NotFound from './components/NotFound';
 
+import './styles.styl';
+
 ReactDOM.render(
 	<Router history={browserHistory}>
 		<Route path="/" component={App}>

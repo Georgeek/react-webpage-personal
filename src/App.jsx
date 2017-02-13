@@ -1,7 +1,6 @@
 import React from 'react';
 
 import NavLink from './components/NavLink';
-import './styles.styl';
 
 class App extends React.Component {
 	render() {
